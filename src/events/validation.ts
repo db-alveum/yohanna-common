@@ -23,8 +23,6 @@ const UserActivityPrayerRequestEventSchema = BaseEventSchema.extend({
   }),
 });
 
-
-
 /**
  * 
  * EventSchema can be used like this: 
